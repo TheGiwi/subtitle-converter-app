@@ -1,5 +1,3 @@
-<br>
-
 ### **Subtitle Converter App v0.01**
 
 <br>
